@@ -1,6 +1,9 @@
 // index.js
 module.exports = {
   say: function () {
-    console.log('你好');
+    console.log('say');
+  }
+  a1: function () {
+    console.log('a1');
   }
 };
