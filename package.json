@@ -1,0 +1,16 @@
+{
+  "name": "my-module",
+  "version": "1.0.0",
+  "description": "一个简单的模块，用于输出日志内容。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests available\""
+  },
+  "keywords": [
+    "hello",
+    "log",
+    "module"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
