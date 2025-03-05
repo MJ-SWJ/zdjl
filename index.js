@@ -13,5 +13,8 @@ module.exports = {
   },
   add: function (a, b) {
     return a + b;
+  },
+  text: function () {
+    console.log('测试');
   }
 };
